@@ -7,6 +7,24 @@ This system demonstrates how AI can enhance product discovery, sustainability ta
 🚀 Project Overview
 
 This backend service provides two intelligent AI modules:
+## 🎥 Demo Video
+
+A short demo showing the working of the **AI Commerce Backend System**.
+
+🔗 **Watch / Download Demo Video**  
+[https://drive.google.com/your-video-link](https://drive.google.com/file/d/1jMGafb1ZuG0cZ4brodthdPn7H44q-oM6/view?usp=sharing)
+
+⚠️ Note:  
+If the preview shows **"This video file is still being processed for playback"**,  
+please use the **Download option in Google Drive** to download and watch the video locally.
+
+### Demo Highlights
+
+- Product classification using AI
+- Automatic category and SEO tag generation
+- Sustainable product proposal generation
+- Budget allocation logic
+- AI retry mechanism for response reliability
 
 🧠 Module 1 — AI Product Classification
 
